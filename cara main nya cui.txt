@@ -1,0 +1,16 @@
+cmd admin
+cd /d D:\DW6_Cheat_Project
+python launcher.py
+
+
+
+WITH EXE
+run game nya dulu coi DW6 nya
+JALANIN DW6_LAUNCHER.EXE AS ADMIN
+Untuk Renbu Cheat hit enemy untuk apply unlimited renbu
+(if lu harus buka tingkat renbu) 
+
+YAUDHA ENJOY
+
+
+enjoy!!!!
